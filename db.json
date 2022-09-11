@@ -1,0 +1,226 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "avatar": "/avatars/avatar1.png",
+      "name": "Dadaşov Allahverdi",
+      "count": 3,
+      "amount": 1400,
+      "status": "gözləyir"
+    },
+    {
+      "id": 2,
+      "avatar": "/avatars/avatar2.png",
+      "name": "Bağırova Arzu",
+      "count": 4,
+      "amount": 3200.42,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 3,
+      "avatar": "/avatars/avatar3.png",
+      "name": "Qasımov Elməddin",
+      "count": 7,
+      "amount": 657.45,
+      "status": "gözləyir"
+    },
+    {
+      "id": 4,
+      "avatar": "/avatars/avatar4.png",
+      "name": "Aliyeva Elnara",
+      "count": 1,
+      "amount": 240,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 5,
+      "avatar": "/avatars/avatar5.png",
+      "name": "Heydərov Kamil",
+      "count": 3,
+      "amount": 59.78,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 6,
+      "avatar": "/avatars/avatar6.png",
+      "name": "Babayeva Elnarə",
+      "count": 3,
+      "amount": 68.97,
+      "status": "gözləyir"
+    },
+    {
+      "id": 7,
+      "avatar": "/avatars/avatar7.png",
+      "name": "Qocayev Eldar",
+      "count": 2,
+      "amount": 946.03,
+      "status": "xitam olunub"
+    },
+    {
+      "id": 8,
+      "avatar": "/avatars/avatar8.png",
+      "name": "Adıgözəlova Lalə",
+      "count": 4,
+      "amount": 79.89,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 9,
+      "avatar": "/avatars/avatar7.png",
+      "name": "Qabilov Sadiq",
+      "count": 3,
+      "amount": 850.03,
+      "status": "xitam olunub"
+    },
+    {
+      "id": 10,
+      "avatar": "/avatars/avatar8.png",
+      "name": "Hilalova Nigar",
+      "count": 8,
+      "amount": 400.89,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 11,
+      "avatar": "/avatars/avatar3.png",
+      "name": "Vəliyeva Nəzər",
+      "count": 2,
+      "amount": 65.45,
+      "status": "xitam olunub"
+    },
+    {
+      "id": 12,
+      "avatar": "/avatars/avatar4.png",
+      "name": "Rüstəmov Mənsur",
+      "count": 4,
+      "amount": 240,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 13,
+      "avatar": "/avatars/avatar5.png",
+      "name": "Habilov Valeh",
+      "count": 5,
+      "amount": 150.78,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 14,
+      "avatar": "/avatars/avatar6.png",
+      "name": "Əliyeva Nərmin",
+      "count": 3,
+      "amount": 60.97,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 15,
+      "avatar": "/avatars/avatar7.png",
+      "name": "Babayev Murad",
+      "count": 8,
+      "amount": 96.03,
+      "status": "xitam olunub"
+    },
+    {
+      "id": 16,
+      "avatar": "/avatars/avatar1.png",
+      "name": "Mirzəli Hüseyn",
+      "count": 6,
+      "amount": 140,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 17,
+      "avatar": "/avatars/avatar4.png",
+      "name": "Məmmədov Elmar",
+      "count": 4,
+      "amount": 320.42,
+      "status": "xitam olunub"
+    },
+    {
+      "id": 18,
+      "avatar": "/avatars/avatar2.png",
+      "name": "Nuriyeva Nuray",
+      "count": 5,
+      "amount": 196.03,
+      "status": "gözləyir"
+    },
+    {
+      "id": 19,
+      "avatar": "/avatars/avatar1.png",
+      "name": "Sadiqov Valeh",
+      "count": 8,
+      "amount": 1400,
+      "status": "təsdiqlənib"
+    },
+    {
+      "id": 20,
+      "avatar": "/avatars/avatar6.png",
+      "name": "Atayev Mahmud",
+      "count": 5,
+      "amount": 520.42,
+      "status": " xitam olunub"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Düyü",
+      "count": 10,
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Salmon balıq",
+      "count": 12,
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "name": "Ariel",
+      "count": 10,
+      "price": 4
+    },
+    {
+      "id": 4,
+      "name": "Sabun",
+      "count": 20,
+      "price": 2
+    },
+    {
+      "id": 5,
+      "name": "Stəkan",
+      "count": 12,
+      "price": 5
+    },
+    {
+      "id": 6,
+      "name": "Düyü",
+      "count": 10,
+      "price": 3.5
+    },
+    {
+      "id": 7,
+      "name": "Yastıq",
+      "count": 14,
+      "price": 2.5
+    },
+    {
+      "id": 8,
+      "name": "Makaron",
+      "count": 17,
+      "price": 1.5
+    },
+    {
+      "id": 9,
+      "name": "Turşu",
+      "count": 13,
+      "price": 6.5
+    },
+    {
+      "id": 10,
+      "name": "Qaşıq",
+      "count": 14,
+      "price": 1
+    }
+  ]
+}
